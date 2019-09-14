@@ -1,4 +1,4 @@
-//Settings!
+//Settings!.
 const yourID = ""; //Instructions on how to get this: https://redd.it/40zgse
 const setupCMD = "!createrolemessage"
 let initialMessage = `**React to the messages below to receive the associated role. If you would like to remove the role, simply remove your reaction!**`;
